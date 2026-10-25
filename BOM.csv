@@ -28,7 +28,7 @@ PCB fabrication batch of 5,1,JLCPCB,$2.00,$2.00,https://jlcpcb.com/
 3D print base,1,JLC3DP,$10.85,$10.85,https://jlc3dp.com/
 3D print lid,1,JLC3DP,$4.43,$4.43,https://jlc3dp.com/
 3D print grip-knob,7,JLC3DP,$0.32,$2.24,https://jlc3dp.com/
-3D print speaker-bridge (prior-price allowance; requote revised files),1,JLC3DP,$0.00,$0.00,https://jlc3dp.com/
+3D print speaker-bridge,1,JLC3DP,$0.32,$0.32,https://jlc3dp.com/
 3D print battery-pull-grip (prior-price allowance; requote revised files),1,JLC3DP,$0.00,$0.00,https://jlc3dp.com/
 JLC3DP US shipping,1,JLC3DP,$0.00,$0.00,https://jlc3dp.com/
 PCB shipping allowance,1,JLCPCB,$0.00,$0.00,https://jlcpcb.com/
