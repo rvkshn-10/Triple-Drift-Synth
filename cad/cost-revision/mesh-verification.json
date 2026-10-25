@@ -1,0 +1,102 @@
+{
+  "TripleDrift-base.stl": {
+    "triangles": 7784,
+    "bounds_mm": [
+      [
+        0.0,
+        160.0
+      ],
+      [
+        -1.2872993650645063e-16,
+        130.0
+      ],
+      [
+        0.0,
+        44.599998474121094
+      ]
+    ],
+    "volume_cm3": 119.25520190184747,
+    "nonmanifold_edges": 0,
+    "bed_z_mm": 0.0
+  },
+  "TripleDrift-battery-pull-grip.stl": {
+    "triangles": 32,
+    "bounds_mm": [
+      [
+        132.0,
+        152.0
+      ],
+      [
+        29.0,
+        41.0
+      ],
+      [
+        0.0,
+        2.0
+      ]
+    ],
+    "volume_cm3": 0.45504005981446244,
+    "nonmanifold_edges": 0,
+    "bed_z_mm": 0.0
+  },
+  "TripleDrift-grip-knob.stl": {
+    "triangles": 8758,
+    "bounds_mm": [
+      [
+        -9.951020240783691,
+        9.951020240783691
+      ],
+      [
+        -9.998859405517578,
+        9.998859405517578
+      ],
+      [
+        0.0,
+        12.0
+      ]
+    ],
+    "volume_cm3": 2.9052875070404123,
+    "nonmanifold_edges": 0,
+    "bed_z_mm": 0.0
+  },
+  "TripleDrift-lid.stl": {
+    "triangles": 27700,
+    "bounds_mm": [
+      [
+        0.0,
+        160.0
+      ],
+      [
+        0.0,
+        130.0
+      ],
+      [
+        0.0,
+        11.200000762939453
+      ]
+    ],
+    "volume_cm3": 47.514048934025915,
+    "nonmanifold_edges": 0,
+    "bed_z_mm": 0.0
+  },
+  "TripleDrift-speaker-bridge.stl": {
+    "triangles": 692,
+    "bounds_mm": [
+      [
+        104.14610290527344,
+        148.85389709472656
+      ],
+      [
+        64.28848266601562,
+        124.71151733398438
+      ],
+      [
+        1.5258789076710855e-06,
+        2.3999992370605483
+      ]
+    ],
+    "volume_cm3": 1.3058363312906816,
+    "nonmanifold_edges": 0,
+    "bed_z_mm": 1.5258789076710855e-06
+  }
+}

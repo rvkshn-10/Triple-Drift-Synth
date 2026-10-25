@@ -17,7 +17,7 @@ Amazon Prime was considered. The checked 40 mm speaker two-pack was $5.99 with a
 
 A separate **Triple Drift - Cost revision - 57mm speaker** document was created in **Admin Project**. The original completed Phase 3 design was preserved. The revision adds the larger speaker locator/diagonal bridge/grille, repositions the voice controls and legends, widens pot holes to 7.7 mm and adjusts knob height for 15 mm pot shafts. The selected DS-227 PLAY switch uses a 12.7 mm clearance opening and is raised to avoid the PCB. The knobs now use captive M3 nuts instead of tapped resin set-screw holes.
 
-The live 461-entry revision returned a successful save after the knob change and passed the 115-body digital interference check with no printed-part collisions. Its final export and cloud-version verification are pending because Fusion stopped returning API calls. Available native/STL checkpoint exports precede the knob change and must not be used as the final reusable-M3 knob design. Physical fit, wiring, resin durability, sound and assembly have not been tested. No parts have been ordered.
+The completed 461-entry revision is saved in Admin Project and passed the 115-body digital interference check with no printed-part collisions. Its native F3D archive was reopened in Fusion with the final M3 nut-channel knob features present and no feature errors or warnings. Updated F3D, STEP, five STL files and verification reports are in cad/cost-revision. All STL meshes passed closed-edge, positive-volume and flat-bed checks. Physical fit, wiring, resin durability, sound and assembly have not been tested. No parts have been ordered.
 
 ## Fabrication and delivered-cost assumptions
 

@@ -13,9 +13,9 @@ October 24, 2026. Fusion document: **Triple Drift - Cost revision - 57mm speaker
 
 ## Validation and export status
 
-The final live knob revision passed a digital solid-interference check across 115 bodies with no printed-part collisions. Before the knob revision, the 456-entry model also had no feature errors/warnings and exported to native F3D, STEP and five STL files. These checkpoint meshes were checked for closed two-face edge connectivity, positive signed volume and flat-bed orientation.
+The final 461-entry revision passed a digital solid-interference check across 115 bodies with no printed-part collisions. Its exported native F3D archive was reopened in Fusion and verified to contain the M3 nut-channel knob features with no feature errors or warnings. STEP and all five STL files were exported. Every STL passed closed two-face edge connectivity, positive signed volume and flat-bed orientation checks.
 
-**The currently exported files are the 456-entry checkpoint, before the reusable-M3 knob revision.** The live knob revision has 461 timeline entries and returned a successful save to the separate Admin Project document. Fusion stopped responding during its final export. Do not use the checkpoint grip-knob STL as the final reusable-M3 knob. Native exports and latest cloud-version verification remain pending. The source modification scripts are in the task workspace, not an indication that an exported file has been validated.
+**The current native, STEP and STL exports contain the final reusable-M3 knob revision.** Fusion resumed responding and the completed revision was saved in Admin Project. See native-reopen-check.json, export-verification.json, mesh-verification.json and interference-check.json for the checks. The earlier export interruption is resolved. The revised files still require a new printing quote.
 
 No parts have been ordered, assembled or sound-tested. Print tolerances, resin thread strength, soft pad compression, actual screw fit and wiring service clearance still require physical checks. The larger speaker and switch changes do not change the electrical circuit or PCB connections.
 

@@ -1,0 +1,41 @@
+{
+  "document": "Triple Drift - Cost revision - 57mm speaker",
+  "cloud_id": "urn:adsk.wipprod:dm.lineage:W7vgiwv3SHKCERt-7K5huQ",
+  "folder": "Admin Project",
+  "version": 7,
+  "timeline_entries": 461,
+  "warnings": [],
+  "printed_parts": [
+    {
+      "part": "base",
+      "quantity": 1,
+      "volume_cm3_each": 119.27919883893907
+    },
+    {
+      "part": "lid",
+      "quantity": 1,
+      "volume_cm3_each": 47.51080799945524
+    },
+    {
+      "part": "speaker-bridge",
+      "quantity": 1,
+      "volume_cm3_each": 1.3058569871059258
+    },
+    {
+      "part": "grip-knob",
+      "quantity": 7,
+      "volume_cm3_each": 2.9046505584806868
+    },
+    {
+      "part": "battery-pull-grip",
+      "quantity": 1,
+      "volume_cm3_each": 0.45504000000000083
+    }
+  ],
+  "total_print_volume_cm3": 188.88345773486503,
+  "digital_interference_collisions": 0,
+  "physical_fit_tested": false,
+  "new_print_quote_verified": false,
+  "play_center_z_mm": 32.5,
+  "play_hole_mm": 12.7
+}
