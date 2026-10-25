@@ -2,7 +2,7 @@
 
 Updated October 24, 2026. Currency: USD. **The revised estimate is $85.41, down $15.96 from $101.37, but still $20.41 over the $65 limit. This is not a verified delivered quote.** It assumes enough matching screws and nuts remain in the existing M3 kit. The revised CAD still requires a new printing quote.
 
-`BOM.csv` keeps Part, Qty, Unit, Total, Vendor and Link. Unit means cost per purchased unit in USD. Full purchase quantities are charged. Resistors and ceramic capacitors are budgeted in ten-piece purchases. Reused parts have zero new purchase cost and stay visible in the list.
+`BOM.csv` keeps the same display order with Half Life-compatible headers: Item, Qty, Cost/item, Total Cost, Supplier and link. Cost/item means cost per purchased unit in USD. Full purchase quantities are charged. Prices were restored from the last good Git commit after a Half Life sync wrote imported zeros back to the repository. The standalone summary row and duplicate zero shipping summary were removed so they are not imported as additional parts. The sum of the 43 cost rows remains $85.41. Resistors and ceramic capacitors are budgeted in ten-piece purchases. Reused parts have zero new purchase cost and stay visible in the list.
 
 ## Changes selected by total cost
 
