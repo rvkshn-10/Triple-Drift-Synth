@@ -1,0 +1,18 @@
+{
+  "tested_bodies": 115,
+  "printed_part_collisions": [],
+  "timeline": 461,
+  "reused_knob_fasteners": {
+    "screws": "7 x M3x8 headed nylon screws",
+    "nuts": "7 x M3 hex nylon nuts",
+    "nut_channel_mm": [
+      2.7,
+      5.9,
+      8.95
+    ],
+    "clearance_hole_mm": 3.3,
+    "maximum_screw_head_sweep_radius_mm": 14,
+    "minimum_knob_sweep_gap_mm": 4.0,
+    "actual_leftover_stock_unconfirmed": true
+  }
+}
