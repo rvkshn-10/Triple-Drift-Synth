@@ -1,0 +1,11 @@
+{
+  "schematic_pin_net_audit": "PASS",
+  "connected_pads": 141,
+  "physical_geometry_unchanged": true,
+  "connected_net_membership_unchanged": true,
+  "net_names_matched_to_schematic": 37,
+  "symbol_fields_updated": 60,
+  "board_only_mounting_holes": 4,
+  "unconnected_LM386_gain_pins_explicitly_named": 2,
+  "physical_hardware_tested": false
+}
