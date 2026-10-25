@@ -1,44 +1,45 @@
-"Item","Qty","Cost/item","Total Cost","Supplier","link"
-"NE555P DIP-8 timer",3,$0.25,$0.75,"Tayda","https://www.taydaelectronics.com/ne555-ic-555-timer-dip-8.html"
-"LM386N-1 DIP-8 amplifier",1,$0.85,$0.85,"Tayda","https://www.taydaelectronics.com/lm386-audio-amplifier-1-channel-mono-class-ab-325mwx1at8-ohm-4v-12v-pdip-8.html"
-"1N5817 Schottky diode",1,$0.060,$0.06,"Tayda","https://www.taydaelectronics.com/1n5817-diode-schottky-1a-20v.html"
-"22 ohm 1/4W resistor",10,$0.012,$0.12,"Tayda","https://www.taydaelectronics.com/save-time-easy-group-3.html"
-"10 ohm 1/4W resistor",10,$0.012,$0.12,"Tayda","https://www.taydaelectronics.com/save-time-easy-group-3.html"
-"1k ohm 1/4W resistor",10,$0.012,$0.12,"Tayda","https://www.taydaelectronics.com/save-time-easy-group-3.html"
-"4.7k ohm 1/4W resistor",10,$0.012,$0.12,"Tayda","https://www.taydaelectronics.com/save-time-easy-group-3.html"
-"10k ohm 1/4W resistor",10,$0.012,$0.12,"Tayda","https://www.taydaelectronics.com/save-time-easy-group-3.html"
-"100k ohm 1/4W resistor",10,$0.012,$0.12,"Tayda","https://www.taydaelectronics.com/save-time-easy-group-3.html"
-"470uF 16V radial capacitor",2,$0.060,$0.12,"Tayda","https://www.taydaelectronics.com/capacitors/electrolytic-capacitors/470uf-16v-105c-radial-electrolytic-capacitor-8x12mm.html"
-"100nF 50V ceramic bypass capacitor (buy 10; use 5)",10,$0.010,$0.10,"Tayda","https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2-caps.html"
-"100nF 100V 5% film capacitor",6,$0.10,$0.60,"Tayda","https://www.taydaelectronics.com/0-1uf-100v-5-kemet-polyester-film-box-type-capacitor.html"
-"10nF 50V ceramic bypass capacitor (buy 10; use 3)",10,$0.010,$0.10,"Tayda","https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2-caps.html"
-"1uF 100V film capacitor",1,$0.21,$0.21,"Tayda","https://www.taydaelectronics.com/1uf-100v-5-polyester-film-box-type-capacitor-jfj.html"
-"10uF 50V radial capacitor",1,$0.040,$0.04,"Tayda","https://www.taydaelectronics.com/capacitors/electrolytic-capacitors/10-uf-50v-85c-electrolytic-capacitor-aishi-6985.html"
-"220uF 25V radial capacitor",1,$0.25,$0.25,"Tayda","https://www.taydaelectronics.com/capacitors/electrolytic-capacitors/220uf-25v-105c-radial-electrolytic-capacitor-8x11.html"
-"47nF 100V film capacitor",1,$0.065,$0.07,"Tayda","https://www.taydaelectronics.com/47nf-0-047uf-100v-5-polyester-film-box-type-capacitor.html"
-"B100k linear 6mm round shaft pot",3,$0.39,$1.17,"Tayda","https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-with-solder-lug-shaft-dia-6mm.html"
-"A100k log 6mm round shaft pot",3,$0.50,$1.50,"Tayda","https://www.taydaelectronics.com/potentiometer-variable-resistors/rotary-potentiometer/logarithmic/100k-ohm-logarithmic-taper-potentiometer-round-shaft-solder-lugs-3579.html"
-"A10k log 6mm round shaft pot",1,$0.50,$0.50,"Tayda","https://www.taydaelectronics.com/10k-ohm-logarithmic-taper-potentiometer-round-shaft-solder-lugs-13579.html"
-"Mini SPDT ON-ON toggle",5,$0.47,$2.35,"Tayda","https://www.taydaelectronics.com/electromechanical/switches-key-pad/toggle-switch/mini-toggle-switch-spdt-on-on.html"
-"12mm normally-open PLAY button",1,$0.22,$0.22,"Tayda","https://www.taydaelectronics.com/electromechanical/switches-key-pad/push-button/push-button-switch-momentary-spst-3a-125vac-12mm-red.html"
-"9V battery snap",1,$0.20,$0.20,"Tayda","https://www.taydaelectronics.com/9v-9-volt-battery-clip-connector-snap-t-type.html"
-"57mm 8 ohm 1W speaker HY57MS0810-H8.4",1,$0.95,$0.95,"Tayda","https://www.taydaelectronics.com/hardware-tools/speakers/mylar-speaker-8-ohm-1w.html"
-"Hookup wire and heat-shrink purchase",1,$3.00,$3.00,"Supplier not selected",""
-"9V alkaline battery purchase",1,$2.00,$2.00,"Local retailer",""
-"M3x8 knob screws and M3 nuts (7 pairs reused)",7,$0.000,$0.00,"Already owned",""
-"M3 mounting screws (reused; check remaining stock)",10,$0.000,$0.00,"Already owned",""
-"Feet ribbon cable ties purchase",1,$2.00,$2.00,"Supplier not selected",""
-"Solder purchase",1,$2.00,$2.00,"Supplier not selected",""
-"PCB fabrication batch of 5",1,$2.00,$2.00,"JLCPCB","https://jlcpcb.com/"
-"3D print base (prior-price allowance; requote revised files)",1,$10.85,$10.85,"JLC3DP","https://jlc3dp.com/"
-"3D print lid (prior-price allowance; requote revised files)",1,$4.43,$4.43,"JLC3DP","https://jlc3dp.com/"
-"3D print grip-knob (prior-price allowance; requote revised files)",7,$0.32,$2.24,"JLC3DP","https://jlc3dp.com/"
-"3D print speaker-bridge (prior-price allowance; requote revised files)",1,$0.32,$0.32,"JLC3DP","https://jlc3dp.com/"
-"3D print battery-pull-grip (prior-price allowance; requote revised files)",1,$0.32,$0.32,"JLC3DP","https://jlc3dp.com/"
-"JLC3DP US shipping",1,$14.03,$14.03,"JLC3DP","https://jlc3dp.com/"
-"PCB shipping allowance",1,$8.00,$8.00,"JLCPCB","https://jlcpcb.com/"
-"Tayda shipping/import allowance",1,$8.00,$8.00,"Tayda","https://www.taydaelectronics.com/faq-page"
-"JLC resin import reserve 40%",1,$7.26,$7.26,"JLC3DP","https://jlc3dp.com/help/article/us-tariff-policy-faq"
-"PCB import reserve 35%",1,$0.70,$0.70,"JLCPCB","https://jlc3dp.com/help/article/us-tariff-policy-faq"
-"Sales/use tax reserve",1,$7.00,$7.00,"Multiple suppliers","https://www.cdtfa.ca.gov/taxes-and-fees/rates.htm"
-"Thin soft speaker pad material (purchase allowance)",1,$0.50,$0.50,"Supplier not selected",""
+Item,Qty,Supplier,Cost/item,Total Cost,link
+NE555P DIP-8 timer,3,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/ne555-ic-555-timer-dip-8.html
+LM386N-1 DIP-8 amplifier,1,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/lm386-audio-amplifier-1-channel-mono-class-ab-325mwx1at8-ohm-4v-12v-pdip-8.html
+1N5817 Schottky diode,1,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/1n5817-diode-schottky-1a-20v.html
+22 ohm 1/4W resistor,10,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/save-time-easy-group-3.html
+10 ohm 1/4W resistor,10,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/save-time-easy-group-3.html
+1k ohm 1/4W resistor,10,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/save-time-easy-group-3.html
+4.7k ohm 1/4W resistor,10,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/save-time-easy-group-3.html
+10k ohm 1/4W resistor,10,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/save-time-easy-group-3.html
+100k ohm 1/4W resistor,10,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/save-time-easy-group-3.html
+470uF 16V radial capacitor,2,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/capacitors/electrolytic-capacitors/470uf-16v-105c-radial-electrolytic-capacitor-8x12mm.html
+100nF 50V ceramic bypass capacitor (buy 10; use 5),10,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2-caps.html
+100nF 100V 5% film capacitor,6,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/0-1uf-100v-5-kemet-polyester-film-box-type-capacitor.html
+10nF 50V ceramic bypass capacitor (buy 10; use 3),10,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/capacitors/ceramic-disc-capacitors/test-group-2-caps.html
+1uF 100V film capacitor,1,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/1uf-100v-5-polyester-film-box-type-capacitor-jfj.html
+10uF 50V radial capacitor,1,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/capacitors/electrolytic-capacitors/10-uf-50v-85c-electrolytic-capacitor-aishi-6985.html
+220uF 25V radial capacitor,1,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/capacitors/electrolytic-capacitors/220uf-25v-105c-radial-electrolytic-capacitor-8x11.html
+47nF 100V film capacitor,1,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/47nf-0-047uf-100v-5-polyester-film-box-type-capacitor.html
+B100k linear 6mm round shaft pot,3,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-with-solder-lug-shaft-dia-6mm.html
+A100k log 6mm round shaft pot,3,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/potentiometer-variable-resistors/rotary-potentiometer/logarithmic/100k-ohm-logarithmic-taper-potentiometer-round-shaft-solder-lugs-3579.html
+A10k log 6mm round shaft pot,1,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/10k-ohm-logarithmic-taper-potentiometer-round-shaft-solder-lugs-13579.html
+Mini SPDT ON-ON toggle,5,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/electromechanical/switches-key-pad/toggle-switch/mini-toggle-switch-spdt-on-on.html
+12mm normally-open PLAY button,1,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/electromechanical/switches-key-pad/push-button/push-button-switch-momentary-spst-3a-125vac-12mm-red.html
+9V battery snap,1,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/9v-9-volt-battery-clip-connector-snap-t-type.html
+57mm 8 ohm 1W speaker HY57MS0810-H8.4,1,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/hardware-tools/speakers/mylar-speaker-8-ohm-1w.html
+Hookup wire and heat-shrink purchase,1,Supplier not selected,$0.00,$0.00,
+9V alkaline battery purchase,1,Local retailer,$0.00,$0.00,
+M3x8 knob screws and M3 nuts (7 pairs reused),7,Already owned,$0.00,$0.00,
+M3 mounting screws (reused; check remaining stock),10,Already owned,$0.00,$0.00,
+Feet ribbon cable ties purchase,1,Supplier not selected,$0.00,$0.00,
+Solder purchase,1,Supplier not selected,$0.00,$0.00,
+PCB fabrication batch of 5,1,JLCPCB,$0.00,$0.00,https://jlcpcb.com/
+3D print base (prior-price allowance; requote revised files),1,JLC3DP,$0.00,$0.00,https://jlc3dp.com/
+3D print lid (prior-price allowance; requote revised files),1,JLC3DP,$0.00,$0.00,https://jlc3dp.com/
+3D print grip-knob (prior-price allowance; requote revised files),7,JLC3DP,$0.00,$0.00,https://jlc3dp.com/
+3D print speaker-bridge (prior-price allowance; requote revised files),1,JLC3DP,$0.00,$0.00,https://jlc3dp.com/
+3D print battery-pull-grip (prior-price allowance; requote revised files),1,JLC3DP,$0.00,$0.00,https://jlc3dp.com/
+JLC3DP US shipping,1,JLC3DP,$0.00,$0.00,https://jlc3dp.com/
+PCB shipping allowance,1,JLCPCB,$0.00,$0.00,https://jlcpcb.com/
+Tayda shipping/import allowance,1,Tayda,$0.00,$0.00,https://www.taydaelectronics.com/faq-page
+JLC resin import reserve 40%,1,JLC3DP,$0.00,$0.00,https://jlc3dp.com/help/article/us-tariff-policy-faq
+PCB import reserve 35%,1,JLCPCB,$0.00,$0.00,https://jlc3dp.com/help/article/us-tariff-policy-faq
+Sales/use tax reserve,1,Multiple suppliers,$0.00,$0.00,https://www.cdtfa.ca.gov/taxes-and-fees/rates.htm
+Thin soft speaker pad material (purchase allowance),1,Supplier not selected,$0.00,$0.00,
+Estimated total shipping,1,,,$0.00,
